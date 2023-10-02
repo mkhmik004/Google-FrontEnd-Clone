@@ -1,0 +1,123 @@
+/*google search*/
+.pageButton{
+text-align: end;
+} 
+
+.search{
+    border: 4px white;
+    text-align: center;
+    border-top: 150px solid #ffffff;  
+  
+}
+
+.searchBar{
+    border-style: solid;
+    border-radius: 50px;
+    height:50px; width:600px;
+    text-align: center;
+    font-size: large;
+    border-color: hsl(0, 0%, 83%);
+}
+.searchBar:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer; 
+}
+
+
+.searchBut{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: hsl(0, 0%, 83%);
+    height: 40px;   
+}
+
+.searchBut:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
+}
+
+.pageButton a{
+    font: bold 11px Arial;
+    text-decoration: none;
+    color: #939393;
+    padding: 2px 6px 2px 6px;
+}
+.pageButton a:hover{
+text-shadow: 2px 2px 3px grey;
+    cursor: pointer; 
+}
+/*advance search*/
+
+.red{
+    font-size: large;
+  color: red;
+}
+.box{
+    display: inline;
+    width: 400px;
+
+}
+.advancebutton{
+    box-shadow: none;
+    background-color: #4d90fe;
+    border-color: #4d90fe;
+    border: 1px solid;
+    color: #ffffff;
+    padding:12px ;
+
+    
+}
+.advBut{
+
+    text-align: center;
+    padding-top:20px ;
+}
+
+.firstDiv{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.middlediv{
+    display: flex;
+    flex-direction: column;
+}
+
+.bigDiv{
+    display: flex;
+    flex-direction: row;
+}
+.middlediv .box{
+    margin: 10px;
+}
+.firstDiv .label{
+    margin: 11px;
+}
+div span{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 5px;
+}
+.endDiv span{
+    margin: 20px;
+    font-style:oblique ;
+    color: #939393;
+    font-size: small;
+}
+.rightAlighn{
+    text-align: center;
+    color: #939393;
+    padding-left: 500px;
+}
+.leftAlighn{
+    padding-top: 20px;
+    font-size: larger;
+}
+.headblock{
+    display: flex;
+    
+}
+.leftAlighn{
+    font-size: medium;
+}
