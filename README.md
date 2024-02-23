@@ -2,7 +2,7 @@
 
 CS50W Google Clone is a front-end project replicating the Google search engine interface. It includes server connection for search functionality.
 
-#Demo video
+# Demo video
 
 [![YouTube Video](https://img.youtube.com/vi/tLvVi3M4MHk/maxresdefault.jpg)](https://www.youtube-nocookie.com/embed/tLvVi3M4MHk?si=i5h2tXAbuiz8iqur)
 
